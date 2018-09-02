@@ -1,0 +1,13 @@
+Source: https://github.com/firesharkstudios/butterfly-server-dotnet
+NuGet:
+  - Butterfly.Core Butterfly.EmbedIO Butterfly.MySql
+Language: C#
+Image: https://raw.githubusercontent.com/firesharkstudios/butterfly-server-dotnet/master/img/logo-40x40.png
+Website: https://butterflyserver.io
+Docs: https://butterflyserver.io
+Tags:
+  - real-time
+  - websocket
+  - push
+  - server
+  - database
